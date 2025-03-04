@@ -1,0 +1,74 @@
+*********** Java **************
+Java is High Level Programming language
+James Gosling :: Sun Microsystem
+Java was sold to Oracle to later on
+
+JDK: Java Dev Kit = [JRE, some tools, JVM]
+
+Java 1.6
+Java 1.7 :: JDK 1.7 & JRE 1.7
+(2015) Java 1.8, Java 8, JDK 1.8 JDK 8* 2030✅
+Java 9, JDK 9 & JRE 9
+Java 10
+Java 11* .....
+Java 17* .....
+Java 21* JDK 21✅....
+Java 23
+
+* LTS(Long Term Support) versions
+
+----- Vendors -----
+Oracle
+Adoptium✅
+Bell Labs
+Azul
+Amazon Corettto
+Graal
+
+Setting Enviroment Variables✅
+
+https://youtu.be/IJ-PJbvJBGs
+
+https://in.linkedin.com/in/sumanshekhar698
+9006567388
+
+
+*********** Tasks ***********
+- Make a account on Github
+- Make a account on LinkedIn
+- Softwares Installation
+	- Notepad ++ ✅
+	- JDK 8,21 ✅✅
+	- Eclipse (JDK 17+), IntelliJ IDEA IDE ✅
+
+
+*********** 1. Compilation ***********
+Main.java (Source File) ---- javac Main.java -----> Main.class  (Class File, Intermediale File/Code , Bytecode)
+
+
+*********** 2. Execution ***********
+Main.class ---- java Main -----> o/p
+
+Win 11
+Java belives in WORA (Write Once Run Anywhere), Thats why Java in platform Independent language
+Main.class
+
+Ubuntu
+JVM is platform dependent
+
+
+
+packages in Java:
+C1: to use lower case letters
+C1.1: the convention is to use reversed domain names
+
+
+sumanshekhar.com
+
+com.sumanshekhar.game.gta
+com.java.basics
+
+
+com>
+	java>
+		basics
