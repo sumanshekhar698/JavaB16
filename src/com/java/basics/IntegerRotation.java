@@ -7,7 +7,7 @@ public class IntegerRotation {
 		
 //		byte short int long 
 		
-		int x = 2147483647;// Maxmum +ve
+		int x = 2147483647;// Maximum +ve
 		x += 5;
 		System.out.println(x);// 2147483648
 
