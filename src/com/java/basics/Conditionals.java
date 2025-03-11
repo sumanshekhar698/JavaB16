@@ -4,9 +4,11 @@ public class Conditionals {
 
 	public static void main(String[] args) {
 
-		int x = 9;
+		int x = 4;
 
-		if (x % 2 == 0) {// if else if else ladder
+//		Logical AND:&&
+//		Logical OR ||
+		if (x > 5 || x % 2 == 0) {// if else if else ladder
 			System.out.println("Even");
 		} else if (x > 0) {
 			System.out.println("Positive");
