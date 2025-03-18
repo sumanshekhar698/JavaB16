@@ -3,6 +3,9 @@ App Dev
 - Android App
 - iOS App
 
+React Native - JS
+Flutter - Dart
+
 - Windows Apps
 - Mac OS apps
 - Linux Apps
