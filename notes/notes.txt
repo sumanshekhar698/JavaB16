@@ -72,3 +72,13 @@ com.java.basics
 com>
 	java>
 		basics
+		
+		
+		
+		
+		
+OOPS:
+- encapsulation
+- polymorphism
+- inheritance
+- abstraction
