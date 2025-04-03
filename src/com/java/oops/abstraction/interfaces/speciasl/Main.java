@@ -18,7 +18,7 @@ public class Main {
 		// Functional Inteface
 //		Lambda Fn
 
-		Bird b2 = () -> {//		Lambda Fn only applicable fore functional inteface
+		Bird b2 = () -> {//		Lambda Fn only applicable fore functional interface
 			System.out.println("Flying high..");
 		};
 		b2.fly();
