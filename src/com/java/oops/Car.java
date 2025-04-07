@@ -1,6 +1,6 @@
 package com.java.oops;
 
-class Car {
+public class Car {
 
 	// instance variables/ object variables
 	String color;//null is default value for every object
